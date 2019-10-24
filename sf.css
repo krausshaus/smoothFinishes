@@ -13,5 +13,11 @@
     border: 3px solid green;
 }
 
+#title img {
+display: block;
+    margin: auto;
+}
+
 .p {
     color: red;
+}
