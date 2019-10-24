@@ -20,6 +20,8 @@ display: block;
     text-align: center;
 }
 
-.p {
-    color: red;
+#video {
+    position: relative;
+    height: 600px;
+    width: 100%;
 }
